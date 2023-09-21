@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 3c7662135769b9b4da206e34b9fb60f8
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -2177191752055175918
+    second: c000_00_death
+  - first:
+      74: 6543492287721637463
+    second: c000_00_shot
+  - first:
+      74: 6573378385818088608
+    second: c000_00_idle
+  - first:
+      74: -2824144001502227524
+    second: c000_00_idlespecial
+  - first:
+      74: -4176175939681855557
+    second: c000_00_walk
+  - first:
+      74: 7957339193001857319
+    second: c000_00_run
+  - first:
+      74: 966100383933006827
+    second: c000_00_cover_aim_end
+  - first:
+      74: 3055352542033270523
+    second: c000_00_cover_idle
+  - first:
+      74: -6105490836217802702
+    second: c000_00_cover_reload
+  - first:
+      74: 8895055230256333658
+    second: c000_00_cover_aim_start
+  - first:
+      74: 136663204693079124
+    second: c000_00_cover_aim_idle
+  - first:
+      74: -8160853263209409784
+    second: c000_00_cover_shot
+  - first:
+      74: -8864880580975945335
+    second: c000_00_talk_0
+  - first:
+      74: 4134748994141393502
+    second: c000_00_talk_idle
+  - first:
+      74: -7787229491192616144
+    second: c000_00_stun
+  - first:
+      74: -4648409089132840276
+    second: c000_00_talk_1
+  - first:
+      74: 787264820683890150
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: 2444337890398250885
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: 2800809793199401901
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -3962518951287424162
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_idle|Base Layer
+  - first:
+      74: 670542270152825350
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_reload|Base Layer
+  - first:
+      74: -8463614411572524976
+    second: c080_01_var|Bip001 Footsteps|c000_00_cover_shot|Base Layer
+  - first:
+      74: -6662299368873729773
+    second: c080_01_var|Bip001 Footsteps|c000_00_death|Base Layer
+  - first:
+      74: 912350524303533121
+    second: c080_01_var|Bip001 Footsteps|c000_00_idlespecial|Base Layer
+  - first:
+      74: -5910094115288906400
+    second: c080_01_var|Bip001 Footsteps|c000_00_idle|Base Layer
+  - first:
+      74: -5219696104090934181
+    second: c080_01_var|Bip001 Footsteps|c000_00_run|Base Layer
+  - first:
+      74: 3781696356502996913
+    second: c080_01_var|Bip001 Footsteps|c000_00_shot|Base Layer
+  - first:
+      74: 7750687182677684944
+    second: c080_01_var|Bip001 Footsteps|c000_00_stun|Base Layer
+  - first:
+      74: 1580967905064035389
+    second: c080_01_var|Bip001 Footsteps|c000_00_talk_0|Base Layer
+  - first:
+      74: -2308981087936306794
+    second: c080_01_var|Bip001 Footsteps|c000_00_talk_1|Base Layer
+  - first:
+      74: 9010137201738017471
+    second: c080_01_var|Bip001 Footsteps|c000_00_talk_idle|Base Layer
+  - first:
+      74: 4176061944089642526
+    second: c080_01_var|Bip001 Footsteps|c000_00_walk|Base Layer
+  - first:
+      74: 1091788453258075363
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: 4209277842142736531
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: 5620150285458921005
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -5579286546297445404
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_idle|Base Layer
+  - first:
+      74: -6830366738176806168
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 5168846240946244661
+    second: c080_01_var|Bip001 HeadNub|c000_00_cover_shot|Base Layer
+  - first:
+      74: 3825165479217864980
+    second: c080_01_var|Bip001 HeadNub|c000_00_death|Base Layer
+  - first:
+      74: 4631891734208867950
+    second: c080_01_var|Bip001 HeadNub|c000_00_idlespecial|Base Layer
+  - first:
+      74: 2805430924366668285
+    second: c080_01_var|Bip001 HeadNub|c000_00_idle|Base Layer
+  - first:
+      74: 6488889415631044590
+    second: c080_01_var|Bip001 HeadNub|c000_00_run|Base Layer
+  - first:
+      74: 347566016355793058
+    second: c080_01_var|Bip001 HeadNub|c000_00_shot|Base Layer
+  - first:
+      74: 5864392326481408428
+    second: c080_01_var|Bip001 HeadNub|c000_00_stun|Base Layer
+  - first:
+      74: 615476805188973318
+    second: c080_01_var|Bip001 HeadNub|c000_00_talk_0|Base Layer
+  - first:
+      74: -2573988618884208185
+    second: c080_01_var|Bip001 HeadNub|c000_00_talk_1|Base Layer
+  - first:
+      74: -8670719163931888584
+    second: c080_01_var|Bip001 HeadNub|c000_00_talk_idle|Base Layer
+  - first:
+      74: 7894158881879390469
+    second: c080_01_var|Bip001 HeadNub|c000_00_walk|Base Layer
+  - first:
+      74: 4326465851258315409
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: -602977947075968986
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: 5015805000802793119
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -3488463953945631413
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: 4836245637542879099
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 9196033754213858912
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: 3723996405386029217
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_death|Base Layer
+  - first:
+      74: -2877042737589415395
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: 6591702051009168768
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_idle|Base Layer
+  - first:
+      74: -5429094115873411189
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_run|Base Layer
+  - first:
+      74: 1754471413261882437
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_shot|Base Layer
+  - first:
+      74: 7491655851475685470
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_stun|Base Layer
+  - first:
+      74: -1299595385670242716
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: 2728861304850868591
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: -3678317809178281310
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: 1575236229504797903
+    second: c080_01_var|Bip001 L Finger0Nub|c000_00_walk|Base Layer
+  - first:
+      74: -7531557913531092822
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: -1207918710718842786
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: 3096764004140862796
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -1198336694886396750
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: -2899756134953274772
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 7706527067920330406
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: -3845177187954572618
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_death|Base Layer
+  - first:
+      74: 1734808125285449376
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: 6171728821267941150
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_idle|Base Layer
+  - first:
+      74: 929971546216652656
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_run|Base Layer
+  - first:
+      74: 4760945687994617956
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_shot|Base Layer
+  - first:
+      74: 3094697006249378583
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_stun|Base Layer
+  - first:
+      74: 662920317114041335
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: -3940115996259467550
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: 7256281500462441659
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: -3784320404297530763
+    second: c080_01_var|Bip001 L Finger1Nub|c000_00_walk|Base Layer
+  - first:
+      74: -2145359539646951030
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: 954778794489912901
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: -8763914391448362681
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -2863604124451939363
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: -7632502612048122207
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 7658235862094097751
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: 5842683021214071220
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_death|Base Layer
+  - first:
+      74: -4664430206488466236
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: -3413903657161062841
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_idle|Base Layer
+  - first:
+      74: 8459889374236667572
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_run|Base Layer
+  - first:
+      74: -7822986483154644694
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_shot|Base Layer
+  - first:
+      74: -8058999222535059240
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_stun|Base Layer
+  - first:
+      74: -4622963354073627160
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: -645340773294271187
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: 6644610410982956938
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: -720160517608294141
+    second: c080_01_var|Bip001 L Toe0Nub|c000_00_walk|Base Layer
+  - first:
+      74: 3757326699603422912
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: -4572830033973298552
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: -616681677807911681
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: -1441165778012944065
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: 5623015588852898106
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 9116552586566531916
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: 1316618835433284733
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_death|Base Layer
+  - first:
+      74: 4278655868738161307
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: 395229856912027417
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_idle|Base Layer
+  - first:
+      74: 3854296416947672111
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_run|Base Layer
+  - first:
+      74: -1107191399289255235
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_shot|Base Layer
+  - first:
+      74: -7457778531208071106
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_stun|Base Layer
+  - first:
+      74: 2401481608137266059
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: 7664210622382164062
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: -7439572262312026316
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: 4917196799521042481
+    second: c080_01_var|Bip001 R Finger0Nub|c000_00_walk|Base Layer
+  - first:
+      74: -8058493635847186922
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: 4203715287437310703
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: -1850218966650062588
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: 117202138003177897
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: 7608744513061845812
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: 7708274249626454615
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: -1750960687769090481
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_death|Base Layer
+  - first:
+      74: -2396610186391349370
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: -8050212259080107862
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_idle|Base Layer
+  - first:
+      74: 8280126521312322676
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_run|Base Layer
+  - first:
+      74: -1327160586171854156
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_shot|Base Layer
+  - first:
+      74: -5046656304744526991
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_stun|Base Layer
+  - first:
+      74: 297725530382640641
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: -1615564593939430695
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: -3999612361241639370
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: -1742009461365320920
+    second: c080_01_var|Bip001 R Finger1Nub|c000_00_walk|Base Layer
+  - first:
+      74: 547739353058704188
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_aim_end|Base Layer
+  - first:
+      74: 5461225548323347836
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_aim_idle|Base Layer
+  - first:
+      74: -416117723168298327
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_aim_start|Base Layer
+  - first:
+      74: 5241449454801392839
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_idle|Base Layer
+  - first:
+      74: -1311194492931670592
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_reload|Base Layer
+  - first:
+      74: -1975232068004082644
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_cover_shot|Base Layer
+  - first:
+      74: 8450635093975269783
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_death|Base Layer
+  - first:
+      74: -3804516556857539743
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_idlespecial|Base Layer
+  - first:
+      74: 4088392119533055158
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_idle|Base Layer
+  - first:
+      74: 8378555114987043388
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_run|Base Layer
+  - first:
+      74: 8821433049042849109
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_shot|Base Layer
+  - first:
+      74: 8230285822366577534
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_stun|Base Layer
+  - first:
+      74: -358180394032647232
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_talk_0|Base Layer
+  - first:
+      74: 5420927033948369598
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_talk_1|Base Layer
+  - first:
+      74: 1501726527563255671
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_talk_idle|Base Layer
+  - first:
+      74: -5618434788567730763
+    second: c080_01_var|Bip001 R Toe0Nub|c000_00_walk|Base Layer
+  - first:
+      74: 4460038355963731444
+    second: c080_01_var|c080_01_varAction
+  - first:
+      74: 5586540382435612698
+    second: c080_01_var|Point001|c000_00_run|Base Layer
+  - first:
+      74: -5432845458551692751
+    second: c080_01_var|socket_position_bottom|c000_00_run|Base Layer
+  - first:
+      74: -6496412233241594537
+    second: c080_01_var|socket_position_center01|c000_00_run|Base Layer
+  - first:
+      74: 8357204073634649817
+    second: c080_01_var|socket_position_center02|c000_00_run|Base Layer
+  - first:
+      74: 7550845304537327793
+    second: c080_01_var|socket_position_top|c000_00_run|Base Layer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 2e28a1d5b22ac1d40891454f7e5ad9e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c080_01
+    second: {fileID: 2100000, guid: bca582579c362da47a7562a31b2d17b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c080_01_weapon
+    second: {fileID: 2100000, guid: af41e3ccf42ef4248b364f8527dd704a, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
