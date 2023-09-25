@@ -92,6 +92,7 @@ FOR /R %%x IN (c210_00*.*) DO ren "%%x" Exia.*
 FOR /R %%x IN (c210_01*.*) DO ren "%%x" Exia oytotheNerds.*
 FOR /R %%x IN (c212_00*.*) DO ren "%%x" Novel.*
 FOR /R %%x IN (c212_01*.*) DO ren "%%x" NovelPenguinHolmes.*
+FOR /R %%x IN (c212_02*.*) DO ren "%%x" NovelDetectiveNurse.*
 FOR /R %%x IN (c220_00*.*) DO ren "%%x" Snow White.*
 FOR /R %%x IN (c221_00*.*) DO ren "%%x" Rapunzel.*
 FOR /R %%x IN (c222_00*.*) DO ren "%%x" Scarlet.*
@@ -103,6 +104,7 @@ FOR /R %%x IN (c240_00*.*) DO ren "%%x" Rumani.*
 FOR /R %%x IN (c241_00*.*) DO ren "%%x" Epinel.*
 FOR /R %%x IN (c242_00*.*) DO ren "%%x" Folkwang.*
 FOR /R %%x IN (c260_00*.*) DO ren "%%x" Modernia.*
+FOR /R %%x IN (c260_01*.*) DO ren "%%x" ModerniaFirstAffection.*
 FOR /R %%x IN (c261_00*.*) DO ren "%%x" Nihilister.*
 FOR /R %%x IN (c262_00*.*) DO ren "%%x" Liberalio.*
 FOR /R %%x IN (c270_00*.*) DO ren "%%x" Blanc.*
@@ -126,10 +128,13 @@ FOR /R %%x IN (c308_00*.*) DO ren "%%x" iDoll Sun.*
 FOR /R %%x IN (c310_00*.*) DO ren "%%x" Ade.*
 FOR /R %%x IN (c311_00*.*) DO ren "%%x" Cocoa.*
 FOR /R %%x IN (c312_00*.*) DO ren "%%x" Soda.*
+FOR /R %%x IN (c321_00*.*) DO ren "%%x" Marciana.*
 FOR /R %%x IN (c350_00*.*) DO ren "%%x" Mast.*
+FOR /R %%x IN (c350_00*.*) DO ren "%%x" MastAPiratesHeart.*
 FOR /R %%x IN (c351_00*.*) DO ren "%%x" Anchor.*
 FOR /R %%x IN (c352_00*.*) DO ren "%%x" Helm.*
 FOR /R %%x IN (c352_01*.*) DO ren "%%x" HelmChandelier.*
+FOR /R %%x IN (c353_00*.*) DO ren "%%x" HelmAquamarine.*
 FOR /R %%x IN (c380_00*.*) DO ren "%%x" Nero.*
 FOR /R %%x IN (c381_00*.*) DO ren "%%x" Biscuit.*
 FOR /R %%x IN (c390_00*.*) DO ren "%%x" Zwei.*
