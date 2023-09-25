@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: c012_00
+  m_Name: Anis
   m_Shader: {fileID: 4800000, guid: 14e1c616dc98dc74bac2640af2580b3a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
